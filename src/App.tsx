@@ -17,14 +17,10 @@ function App() {
         </GridItem>
 
         <Show above="lg">
-          <GridItem area="aside" bg="purple">
-            ASIDE
-          </GridItem>
+          <GridItem area="aside">ASIDE</GridItem>
         </Show>
 
-        <GridItem area="main" bg="pink.400">
-          MAIN
-        </GridItem>
+        <GridItem area="main">MAIN</GridItem>
       </Grid>
     </>
   );
