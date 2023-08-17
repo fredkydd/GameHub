@@ -2,7 +2,7 @@ import { Grid, GridItem, Show } from '@chakra-ui/react';
 import NavBar from './components/NavBar';
 // import './App.css';
 
-function App() {
+export default function App() {
   return (
     <>
       {/* <Grid templateAreas={`"nav nav" "aside main"`}> */}
@@ -25,5 +25,3 @@ function App() {
     </>
   );
 }
-
-export default App;

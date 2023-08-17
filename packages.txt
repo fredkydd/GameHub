@@ -1,0 +1,15 @@
+npm i vite
+npm i zod
+npm i axios
+npm i immer
+npm i create-vite
+npm i @hookform/resolvers
+npm i dotenv
+npm i react-hook-form
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i react-icons --save
+npm i styled-components
+npm i bootstrap
+npm i bootstrap-icons
+
+npm i vite zod axios immer create-vite @hookform/resolvers dotenv react-hook-form @chakra-ui/react @emotion/react @emotion/styled framer-motion react-icons --save styled-components bootstrap bootstrap-icons
